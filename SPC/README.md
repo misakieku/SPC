@@ -14,7 +14,7 @@ The destination shader that want to change to.
 - The list in the middle shows all the properties want to convert to, **None** means the property will not be converted.
 - The list on the right shows the type of the property.
 
->:warning:**Warning**
+>:warning:
 > If the property type is **None**, the property will not be converted even if the destination is not None.
 
 ### "Upgrade Project Folder" Button
